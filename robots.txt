@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barboskin.github.io/refinance/sitemap.xml
+Sitemap: https://barboskin.github.io/refinance/sitemap.txt
